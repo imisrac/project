@@ -37,3 +37,6 @@ gem 'jquery-rails'
 
 # To use debugger
 # gem 'ruby-debug'
+
+# To use execjs
+gem "therubyracer", :require => 'v8'
