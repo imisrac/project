@@ -25,7 +25,6 @@ end
 
 group :production do
   gem 'pg'
-  gem 'thin'
 end
 
 gem 'jquery-rails'
